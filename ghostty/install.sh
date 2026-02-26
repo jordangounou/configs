@@ -1,5 +1,5 @@
 #!/usr/bin/bash
 
-mkdir -p ~/config/ghostty
+mkdir -p ~/.config/ghostty
 
-cp config ~/config/ghostty/config
+cp config ~/.config/ghostty/config
